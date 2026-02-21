@@ -16,8 +16,6 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 
 ## Legacy Work
 
-- Multi-channel product interfaces (mobile apps, kiosk software, hardware-connected prototypes).
-- Ingestion pipelines, normalization layers, and internal automation for operational analytics.
 - 🧾 **[Safari Markdown](https://github.com/alvinjchoi/safari-markdown)** - Safari extension + macOS host app to render local and remote Markdown files with clean styling and UTF fixes.
 
 ## GitHub Activity
