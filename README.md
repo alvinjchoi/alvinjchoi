@@ -11,7 +11,6 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 - 🍽️ **[Crave Platform](https://craveup.com)** - Online ordering and restaurant operations.
 - 📦 **[Crave.js](https://cravejs.com)** - Headless framework and restaurant component library; storefronts, menus, checkout.
 - 🤖 **[Nomly](https://nomly.ai)** - AI assistant for operators: analytics, reporting, RAG-based guidance.
-- 🤝 **[Partners Place](https://arnoldbyun.com)** - Operational workflows for international brands scaling into the U.S.
 - 📋 **[User Flow Library](https://userflowlibrary.com)** - AI-powered docs: user flows, Mermaid from screenshots, clickable prototypes, PDF export.
 
 ## Legacy Work
