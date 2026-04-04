@@ -12,11 +12,7 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 - 📦 **[Crave.js](https://cravejs.com)** - Headless framework and restaurant component library; storefronts, menus, checkout.
 - 🤖 **[Nomly](https://nomly.ai)** - AI assistant for operators: analytics, reporting, RAG-based guidance.
 - 📋 **[User Flow Library](https://userflowlibrary.com)** - AI-powered docs: user flows, Mermaid from screenshots, clickable prototypes, PDF export.
-
-## Legacy Work
-
-- 🧾 **[Safari Markdown](https://github.com/alvinjchoi/safari-markdown)** - Safari extension + macOS host app to render local and remote Markdown files with clean styling and UTF fixes.
-
+  
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alvinjchoi)
