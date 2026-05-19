@@ -11,6 +11,10 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 - 🍽️ **[Crave](https://craveup.com)** - Online ordering platform and restaurant operations.
 - 🤖 **[Nomly](https://nomly.ai)** - AI assistant for operators: analytics, reporting, RAG-based guidance.
   
+## Hobbies
+
+- 📋 **[User Flow Library](https://userflowlibrary.com)** - AI-powered docs: user flows, Mermaid from screenshots, clickable prototypes, PDF export.
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alvinjchoi)
