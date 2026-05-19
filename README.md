@@ -8,10 +8,8 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 
 ## Current Projects
 
-- 🍽️ **[Crave Platform](https://craveup.com)** - Online ordering and restaurant operations.
-- 📦 **[Crave.js](https://cravejs.com)** - Headless framework and restaurant component library; storefronts, menus, checkout.
+- 🍽️ **[Crave](https://craveup.com)** - Online ordering platform and restaurant operations.
 - 🤖 **[Nomly](https://nomly.ai)** - AI assistant for operators: analytics, reporting, RAG-based guidance.
-- 📋 **[User Flow Library](https://userflowlibrary.com)** - AI-powered docs: user flows, Mermaid from screenshots, clickable prototypes, PDF export.
   
 ## GitHub Activity
 
