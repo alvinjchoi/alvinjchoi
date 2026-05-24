@@ -4,12 +4,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-I'm a founder and product builder focused on B2B SaaS and operations. Born in Korea, I've built my career between Seoul and Los Angeles. I started in hospitality and digital operations, then founded [Crave](https://craveup.com) (platform and Crave.js) for restaurant ordering and storefronts, and [Nomly](https://nomly.ai), an AI assistant for operators. I also work on [Partners Place](https://arnoldbyun.com) and other products.
+I'm a founder and product builder focused on B2B SaaS and operations. Born in Korea, I've built my career between Seoul and Los Angeles. I started in hospitality and digital operations, then founded [Crave](https://craveup.com) (platform and Crave.js) for restaurant ordering and storefronts, and [Nomly](https://nomly.ai), an AI order-capture and operations layer for independent catering operators.
 
 ## Current Projects
 
 - 🍽️ **[Crave](https://craveup.com)** - Online ordering platform and restaurant operations.
-- 🤖 **[Nomly](https://nomly.ai)** - AI assistant for operators: analytics, reporting, RAG-based guidance.
+- 🤖 **[Nomly](https://nomly.ai)** - AI order-capture and ops layer for independent catering operators: branded storefront, 24/7 voice AI, quoting, invoicing, and menu management.
   
 ## Hobbies
 
