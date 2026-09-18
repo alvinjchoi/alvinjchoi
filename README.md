@@ -9,6 +9,7 @@ I'm a founder and product builder focused on B2B SaaS and operations. Born in Ko
 ## Current Projects
 
 - 🍽️ **[Crave](https://craveup.com)** - Online ordering platform and restaurant operations.
+- 🔓 **[Crave Up OSS](https://github.com/craveup-oss)** - Public open-source restaurant commerce: storefront templates, the Storefront SDK, and the loyalty protocol.
 - 🤖 **[Nomly](https://nomly.ai)** - AI order-capture and ops layer for independent catering operators: branded storefront, 24/7 voice AI, quoting, invoicing, and menu management.
   
 ## Hobbies
