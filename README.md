@@ -4,13 +4,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-I'm a founder and product builder focused on B2B SaaS and operations. Born in Korea, I've built my career between Seoul and Los Angeles. I started in hospitality and digital operations, then founded [Crave](https://craveup.com) (platform and Crave.js) for restaurant ordering and storefronts, and [Nomly](https://nomly.ai), an AI order-capture and operations layer for independent catering operators.
+I'm a founder and product builder focused on B2B SaaS and operations. Born in Korea, I've built my career between Seoul and Los Angeles. I started in hospitality and digital operations, then founded [Crave](https://craveup.com) (platform and Crave.js) for restaurant ordering and storefronts, and [Catervox](https://catervox.com), an AI catering manager.
 
 ## Current Projects
 
 - 🍽️ **[Crave](https://craveup.com)** - Online ordering platform and restaurant operations.
 - 🔓 **[Crave Up OSS](https://github.com/craveup-oss)** - Public open-source restaurant commerce: storefront templates, the Storefront SDK, and the loyalty protocol.
-- 🤖 **[Nomly](https://nomly.ai)** - AI order-capture and ops layer for independent catering operators: branded storefront, 24/7 voice AI, quoting, invoicing, and menu management.
+- 🤖 **[Catervox](https://catervox.com)** - AI catering manager.
   
 ## Hobbies
 
