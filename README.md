@@ -1,9 +1,5 @@
 # Hi, I'm Alvin 👋
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 I'm a founder and product builder focused on B2B SaaS and operations. Born in Korea, I've built my career between Seoul and Los Angeles. I started in hospitality and digital operations, then founded [Crave](https://craveup.com) (platform and Crave.js) for restaurant ordering and storefronts, and [Catervox](https://catervox.com), an AI catering manager.
 
 ## Current Projects
